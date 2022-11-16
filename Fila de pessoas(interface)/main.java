@@ -9,8 +9,8 @@ public class Main
 	    TadFilaPessoa idoso = new TadFilaPessoa();
 	    TadFilaPessoa naoidoso = new TadFilaPessoa();
 	    
-	    Pessoa p1 = new Pessoa(19, 'M', "Guilherme ");
-	    Pessoa p2 = new Pessoa(20, 'M', "Malaga ");
+	    Pessoa p1 = new Pessoa(19, 'M', "Ronaldo ");
+	    Pessoa p2 = new Pessoa(20, 'M', "Ronaldinho ");
 	    Pessoa p4 = new Pessoa(21, 'M', "And ");
 	    Pessoa p5 = new Pessoa(22, 'M', "Edu ");
 	    Pessoa p7 = new Pessoa(23, 'M', "Ric ");
